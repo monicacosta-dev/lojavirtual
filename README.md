@@ -28,7 +28,7 @@ Este é o repositório da loja virtual desenvolvida em JavaScript puro. Nesta lo
 
 2. Navegue para o diretório do projeto:
    ```
-   cd loja-virtual
+   cd lojavirtual
    ```
 
 3. Abra o arquivo `index.html` em um navegador web.
